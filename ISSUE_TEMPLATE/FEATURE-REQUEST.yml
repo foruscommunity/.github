@@ -1,0 +1,34 @@
+name: "💡 Feature Request"
+description: Create a new ticket for a new feature request
+title: "💡 [REQUEST] - <title>"
+labels: [
+  "question"
+]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: Provide a brief explanation of the feature
+      value: |
+        Describe in a few lines your feature request...
+        Indicate here some basic examples of your feature...
+      render: bash
+    validations:
+      required: false
+  - type: textarea
+    id: unresolved_question
+    attributes:
+      label: "Unresolved questions"
+      description: What questions still remain unresolved?
+      placeholder: Identify any unresolved issues.
+    validations:
+      required: false
+  - type: textarea
+    id: references
+    attributes:
+      label: "References"
+      description: Pull request used or common issues
+      placeholder: "#Pull Request ID #Issues IDs"
+    validations:
+      required: false
