@@ -1,6 +1,6 @@
-# Welcome to Forus Community 👋
+# Welcome to Forus 💜
 
-Forus is a brazillian social network developed by students. Since then, the Forus Community has been created to make open source libraries available through GitHub. We want to create a large community that can help Forus grow and also make tutorials, templates and source codes available for free to use in any other projects.
+Forus is a Brazilian social network developed by students that aims to redefine the way you connect to embrace a new era of personalized experiences, quality content and freedom.
 
 ## Visit the Forus website and download the app!
 
@@ -14,15 +14,12 @@ Forus is a brazillian social network developed by students. Since then, the Foru
 
 ## Get involved!
 
-You can join our community on *[Discord](https://discord.gg/bY7wrX3TSK)*. Everyone is welcome!
-
 Follow us on our social media:
+- ### ***[Forus (@forus)](https://forus.app/forus)***
 - ### ***[Instagram](http://instagram.com/forus.app)***
 - ### ***[LinkedIn](https://www.linkedin.com/company/forusapp/)***
 - ### ***[TikTok](http://tiktok.com/@forus.app)***
 - ### ***[YouTube](http://youtube.com/@forusapp)***
-- ### ***[Forus (@forus)](https://forus.app/forus)***
-- ### ***[Forus (@forusbr)](https://forus.app/forusbr)***
 
 ## If you like our work, you can donate to us:
 ### Bitcoin Wallet:
