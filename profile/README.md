@@ -2,6 +2,8 @@
 
 Forus is a Brazilian social network developed by students that aims to redefine the way you connect to embrace a new era of personalized experiences, quality content and freedom.
 
+#ThisIsForUs
+
 ## Visit the Forus website and download the app!
 
 - ### ***[Forus website](https://forus.app/)***
